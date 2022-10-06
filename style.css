@@ -346,7 +346,7 @@ footer {
     flex-direction: column;
   }
   header {
-    padding: 3% 5%;
+    padding: 3% 10%;
 
   }
 
@@ -357,7 +357,7 @@ footer {
     display: none;
   }
   .img-mobile{
-    padding: 0 5%;
+    padding: 0 10%;
   }
   .hero-mobile {
     display: flex;
@@ -367,7 +367,7 @@ footer {
     height: 374px;
   }
   .main-container {
-    padding: 0 5%;
+    padding: 0 10%;
     max-width: auto;
     height: auto;
     margin-top: 45px;
@@ -389,7 +389,7 @@ footer {
     font-size: 16px;
   }
   .boxes-container {
-    padding: 0 5%;
+    padding: 0 10%;
     margin-top: 50px;
     width: 375px;
     height: 1695px;

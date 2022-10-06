@@ -92,10 +92,10 @@ header {
 .hero-desktop {
   position: absolute;
   top: -18%;
-  right: -22%;
+  right: -21%;
   z-index: -1;
-  height: 950px;
-  width: 70%;
+  height: 930px;
+  width: 67%;
 }
 .hero-tablet {
   display: none;

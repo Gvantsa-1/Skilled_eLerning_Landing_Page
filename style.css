@@ -91,11 +91,11 @@ header {
 }
 .hero-desktop {
   position: absolute;
-  top: -18%;
-  right: -21%;
+  top: -16%;
+  right: -18%;
   z-index: -1;
-  height: 930px;
-  width: 67%;
+  height: 870px;
+  width: 62%;
 }
 .hero-tablet {
   display: none;
